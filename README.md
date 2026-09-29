@@ -2,7 +2,12 @@
 
 An AI-made anime version of the scenes where **zipcoin** is used in *Snowmoon*, the novel by Vitalik Buterin.
 
-**Episode 1: Chapter 6, "The salad".** Gladias's payment is declined, he takes out a private reputation-backed loan of 2773 zipcoins, and pays 10.5 zc + 1.1 zc tax. https://x.com/Zipcoin_eth/status/2104713009398780412
+## Episodes
+
+| # | Chapter | Scene | Folder |
+|---|---|---|---|
+| 1 | 6 | **The salad.** Gladias's payment is declined, he takes out a private reputation-backed loan of 2773 zipcoins, and pays 10.5 zc + 1.1 zc tax. | root (`prompts/`, `images/`, `assets/`, `scripts/`) |
+| 2 | 11 | **The Quadratic Funding round.** In a secret Keeper meeting, one Keeper explains the scam: donate 10 zipcoins, get 20 back, the project gets 100 with matching — and it was all Bluewhale. | [`episode-02/`](episode-02/) |
 
 > This is a fan project. It is **not affiliated with or endorsed by Vitalik Buterin**.
 > Source novel: https://vitalik.eth.limo/snowmoon/
