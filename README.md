@@ -10,6 +10,7 @@ An AI-made anime version of the scenes where **zipcoin** is used in *Snowmoon*, 
 | 2 | 11 | **The Quadratic Funding round.** In a secret Keeper meeting, one Keeper explains the scam: donate 10 zipcoins, get 20 back, the project gets 100 with matching — and it was all Bluewhale. | [`episode-02/`](episode-02/) |
 | 3 | 16 | **The Hydrafill test.** Gladias tests his social recovery wallet by buying one bottle of Hydrafill for 5.5 zipcoins. Febric confirms, Seila asks a security question, 3 of 4 signatures done. | [`episode-03/`](episode-03/) |
 | 4 | 19 | **Four hundred zipcoins.** Over tea, Zei gets a message from a food court he once ate at, even though zipcoin payments are anonymous. Someone burned 400 zipcoins to send it. | [`episode-04/`](episode-04/) |
+| 5 | 20 | **Fifty zipcoins.** Seila knocks on Lectoby's door with no answer, until her watch buzzes: 50 zipcoins have just been burned. | [`episode-05/`](episode-05/) |
 
 > This is a fan project. It is **not affiliated with or endorsed by Vitalik Buterin**.
 > Source novel: https://vitalik.eth.limo/snowmoon/
